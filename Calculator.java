@@ -17,7 +17,7 @@ public class Calculator {
         int choice = scanner.nextInt();
 
         if (choice == 5) {
-            System.out.println("Exiting calculator. Goodbye!");
+            System.out.println("There will not valid calculation");
 
         }
 
